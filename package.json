@@ -1,0 +1,19 @@
+{
+  "name": "ajax-contact-form",
+  "version": "1.0.0",
+  "description": "Ajax contact form example with JavaScript and axios HTTP library on a node server (express)",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Nicolas Jezequel",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "body-parser": "^1.18.1",
+    "express": "^4.15.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  }
+}
